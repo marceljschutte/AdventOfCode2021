@@ -8,8 +8,8 @@ public class Main {
         Dag01.main(null);
         Dag02.main(null);
         Dag03.main(null);
-       /* Dag04.main(null);
-        Dag05.main(null);
+        Dag04.main(null);
+       /* Dag05.main(null);
         Dag06.main(null);
         Dag07.main(null);
         Dag08.main(null);

@@ -34,12 +34,9 @@ public class Dag02 {
             } else if (instructie[0].startsWith("up")) {
                 startDepth -= Integer.parseInt(instructie[1]);
             }
-
-
         }
 
         result = startDepth * startHorizontal;
-
         IOUtil.printAnswer(dagnummer, 1, result);
     }
 
